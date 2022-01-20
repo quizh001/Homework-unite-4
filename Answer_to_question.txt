@@ -1,0 +1,19 @@
+Conduct Quantitative Analysis
+Performance Analysis for S&P 500, Whale and algo
+
+
+2) Calculate and plot cumulative returns for all portfolios. Does any portfolio outperform the S&P 500?
+it the other portafolio performs better than the S&P 500
+
+
+Sharpe Ratios 
+
+Sharpe Ratios
+Investment managers and their institutional investors look at the return-to-risk ratio, not just the returns. After all, if you have two portfolios that each offer a 10% return, yet one is lower risk, you would invest in the lower-risk portfolio, right?
+Yes, i will invest in the lower_risk because it retune the same 10%
+
+
+
+My Own 3 data:
+6) How does your portfolio do?
+comparing the protafolio with S&P 60 my portafolio are doing great with exception of SPCE (Virgin Galactict) in the las years it seem it took a deep trip to nowhere.
